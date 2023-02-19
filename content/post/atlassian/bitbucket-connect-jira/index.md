@@ -11,7 +11,7 @@ date = 2022-07-20T17:39:07+08:00
 ![2](./2.png)
 選好 Jira 專案後，按下「Link project」
 ![3](./3.png)
-等載入完成就可以看到 Jira issue 了
+等載入完成就可以看到 Jira issue 了。
 ![4](./4.png)
 
 # Jira issue 連結 Bitbucket branch
