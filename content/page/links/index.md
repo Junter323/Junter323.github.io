@@ -2,25 +2,25 @@
 title: Links
 links:
   - title: GitHub
-    website: https://github.com/simbafs
+    website: https://github.com/junter323
     image: /images/icon/github.png
   - title: Telegram
-    website: https://t.me/simbafs
+    website: https://t.me/Junter0323
     image: /images/icon/telegram.png
   - title: Mastoton
-    website: https://g0v.social/@simbafs
+    website: https://g0v.social/@junter1523
     image: /images/icon/mastodon.png
   - title: Twitter
-    website: https://twitter.com/simbafs
+    website: https://twitter.com/Junter1523
     image: /images/icon/twitter.png
   - title: Facebook
-    website: https://facebook.com/simba.fs
+    website: https://facebook.com/iwjs323
     image: /images/icon/facebook.png
   - title: 記者新聞網
     website: https://new-reporter.com/author/junter
     image: /images/icon/newreporter.png
-  - title: SSH Key 
-    website: /ssh
+  - title: 神奇的地方
+    website: #
 menu:
     main: 
         weight: 5
@@ -30,4 +30,4 @@ menu:
 comments: false
 ---
 
-gpg key fingerprint: `6236 A070 8FCD 894C 7AD1  A5FC DB13 A5C2 042E AEA4`
+這裡是我的 Social Links

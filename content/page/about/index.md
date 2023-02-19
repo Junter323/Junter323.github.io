@@ -8,36 +8,27 @@ menu:
 
 comments: false
 ---
-# 🖐️ 哈囉！問世界安好  [![Followers](https://img.shields.io/github/followers/simbafs?style=flat-square)](https://github.com/simbafs)  
-- 本名: 陳宏彰
-- 常用網名: simba-fs、SimbaFs
-- 原 JS 愛好者 目前 Go 愛好者
-- vim is the best editor
-- 前端好難
+# 🖐️ 哈囉！你都點開就看一下  [![Followers](https://img.shields.io/github/followers/junter323?style=flat-square)](https://github.com/junter323)
+- 本名: 王俊勝
+- 常用網名: Junter0323、御痕
+- 一名駐地記者，歡迎提供獨家，主題後續可以再討論
 - **Golang**、**NodeJS**、nextjs
-- 五迷 目前最喜歡「成名在望」
-- 成大物理系大二
-- [成功高中電子計算機研習社](https://ckcsc.net) 擔任 `退休網管兼教學`
+- 五月天演唱會工作人員
+- 南臺資管系大三
+- [賴傳媒 記者新聞網](https://new-reporter.com) 擔任 `南部駐地記者`
+- 研討會
+    - COSCUP 製播組
+    - SITCON 製播組
+    - HITCON 會眾
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/0-profile-details.svg" alt="">
-<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/3-stats.svg" alt="">
-<img src="https://raw.githubusercontent.com/simbafs/simbafs/master/profile-summary-card-output/solarized/2-most-commit-language.svg" alt="">
-</div>
 
 # 🛠 作品
-- [NCKU Extended](https://github.com/simbafs/ncku-extended)  
-成大系統瀏覽器擴充套件  
-擴充成大系統的功能  
-目前功能還不多，有其他想法歡迎發 Issue  
-
-- [telegrary](https://github.com/simbafs/telegrary)
-Telegrary = Telegram + diary  
-Telegrary 是一個 Telegram 機器人，讓你可以在 Telegram 上管理日記。同時 Telegrary 提供了一個 CLI 界面，讓你可以在終端機管理日記。
+- 總有一天會有的
+- 如果有也不會告訴你:)
 
 # 📬 聯絡方式
-- mail: [me@simbafs.cc](mailto:me@simbafs.cc)
-- Mastodon: <a rel="me" href="https://g0v.social/@simbafs">@simbafs@g0v.social</a>
-- Discord id: SimbaFs#2030
-- telegram: [@simbafs](https://t.me/simbafs)
-- twitter: [@simbafs](https://twitter.com/simbafs)
+- mail: [Junter1523@imwjs.me](mailto:Junter1523@imwjs.me)
+- Mastodon: <a rel="me" href="https://g0v.social/@junter1523">@junter1523@g0v.social</a>
+- Discord id: 御痕#0001
+- telegram: [@Junter0323](https://t.me/Junter0323)
+- twitter: [@Junter1523](https://twitter.com/Junter1523)
