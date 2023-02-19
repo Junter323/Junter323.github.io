@@ -19,6 +19,7 @@ comments: false
 - 研討會
     - COSCUP 製播組
     - SITCON 製播組
+    - MOPCON 媒體組
     - HITCON 會眾
 
 
@@ -27,8 +28,8 @@ comments: false
 - 如果有也不會告訴你:)
 
 # 📬 聯絡方式
-- mail: [Junter1523@imwjs.me](mailto:Junter1523@imwjs.me)
+- Mail: [Junter1523@imwjs.me](mailto:Junter1523@imwjs.me)
 - Mastodon: <a rel="me" href="https://g0v.social/@junter1523">@junter1523@g0v.social</a>
 - Discord id: 御痕#0001
-- telegram: [@Junter0323](https://t.me/Junter0323)
-- twitter: [@Junter1523](https://twitter.com/Junter1523)
+- Telegram: [@Junter0323](https://t.me/Junter0323)
+- Twitter: [@Junter1523](https://twitter.com/Junter1523)
