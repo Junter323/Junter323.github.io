@@ -15,9 +15,10 @@ links:
     image: /images/icon/twitter.png
   - title: Facebook
     website: https://facebook.com/simba.fs
-    image: /images/icon/facebook.webp
-  - title: GPG Key
-    website: /pgp
+    image: /images/icon/facebook.png
+  - title: 記者新聞網
+    website: https://new-reporter.com/author/junter
+    image: /images/icon/newreporter.png
   - title: SSH Key 
     website: /ssh
 menu:
