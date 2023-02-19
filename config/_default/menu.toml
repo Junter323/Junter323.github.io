@@ -10,7 +10,7 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/simbafs"
+url = "https://github.com/Junter323"
 
 [social.params]
 icon = "brand-github"
@@ -18,7 +18,7 @@ icon = "brand-github"
 [[social]]
 identifier = "twitter"
 name = "Twitter"
-url = "https://twitter.com/simbafs"
+url = "https://twitter.com/Junter1523"
 
 [social.params]
 icon = "brand-twitter"
@@ -29,4 +29,4 @@ name = "RSS"
 url = "/index.xml"
 
 [social.params]
-icon = "rss"
+icon="rss"

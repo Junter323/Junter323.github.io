@@ -4,16 +4,16 @@ mainSections = ["post"]
 rssFullContent = true
 
 [footer]
-since = 2020
+since = 2022
 customText = ""
 
 [dateFormat]
 published = "2006/01/02"
-lastUpdated = "2006/01/02 15:04 Asia/Taipei"
+lastUpdated = "2006 01 02 15:04 MST"
 
 [sidebar]
-emoji = "💤"
-subtitle = "雜七雜八的東西"
+emoji = "🌴"
+subtitle = "Hi"
 
 [sidebar.avatar]
 enabled = true
@@ -21,7 +21,7 @@ local = true
 src = "img/avatar.png"
 
 [article]
-math = true
+math = false
 readingTime = true
 
 [article.license]
@@ -36,25 +36,25 @@ type = "search"
 type = "archives"
 
 [widgets.homepage.params]
-limit = 10
+limit = 5
 
 [[widgets.homepage]]
 type = "categories"
 
 [widgets.homepage.params]
-limit = 100
+limit = 10
 
 [[widgets.homepage]]
 type = "tag-cloud"
 
 [widgets.homepage.params]
-limit = 1000
+limit = 10
 
 [[widgets.page]]
 type = "toc"
 
 [opengraph.twitter]
-site = "simbafs"
+site = ""
 card = "summary_large_image"
 
 [defaultImage.opengraph]
@@ -64,7 +64,7 @@ src = ""
 
 [colorScheme]
 toggle = true
-default = "dark"
+default = "auto"
 
 [imageProcessing.cover]
 enabled = true
